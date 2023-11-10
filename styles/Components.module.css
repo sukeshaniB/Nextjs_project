@@ -1,0 +1,18 @@
+.parent {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .child {
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .sub {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 10px;
+  }
+  
